@@ -7,6 +7,8 @@
 
 ## Weekly Summaries
 - [COMP1238](comp1238.md)
+- [COMP1176](comp1176.md)
+- 
 
 ## Winter 2025 Schedule
 - **Monday**
